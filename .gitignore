@@ -142,4 +142,5 @@ checklink/cookies.txt
 # wandb files
 nbs/wandb/
 examples/notebooks/wandb/
+examples/notebooks/gpt2-*/
 wandb/
